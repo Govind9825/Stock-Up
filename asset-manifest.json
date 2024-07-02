@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stockUp.com/static/css/main.9874a594.css",
+    "main.js": "/stockUp.com/static/js/main.a4b39a99.js",
+    "static/js/453.615fbb0a.chunk.js": "/stockUp.com/static/js/453.615fbb0a.chunk.js",
+    "index.html": "/stockUp.com/index.html",
+    "main.9874a594.css.map": "/stockUp.com/static/css/main.9874a594.css.map",
+    "main.a4b39a99.js.map": "/stockUp.com/static/js/main.a4b39a99.js.map",
+    "453.615fbb0a.chunk.js.map": "/stockUp.com/static/js/453.615fbb0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9874a594.css",
+    "static/js/main.a4b39a99.js"
+  ]
+}
